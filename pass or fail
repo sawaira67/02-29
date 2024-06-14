@@ -1,0 +1,5 @@
+number=float(input("Enter your number:"))
+if(number>=40 and number<=100):
+ print("Congratulations! You are pass")
+else:
+ print("You are fail")
